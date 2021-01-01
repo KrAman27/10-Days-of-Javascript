@@ -1,4 +1,4 @@
-function greeting (parameterVariable) {
+function greeting (parametervariable) {
     console.log('Hello World');
-    console.log(parameterVariable);
+    console.log(parametervariable);
 }
